@@ -1,0 +1,19 @@
+Testing:
+check console regressively -- check carefully request and response --- suggestion use soapUI
+
+carefull about servers with multiple tbooks
+
+
+create interface for sqllite using java
+create java code
+	: generate input console 
+	: get data from response (json file)
+	: compare response values and Expected values
+	
+	
+learn SQLlite, and conduct training...
+
+
+
+
+
